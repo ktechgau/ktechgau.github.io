@@ -61,4 +61,4 @@ Other bonus features include smooth scroll, CSS creations in the way of shadow b
 
 ![ This shows my contact page on desktop view ]( Screenshots/Desktop/Desktop Contact.png)
 
-![ This shows my contact page on desktop view  ]( ./Screenshots/Desktop/Desktop Contact.png )
+[ This shows my contact page on desktop view ]( ./Screenshots/Desktop/Desktop Contact.png )
